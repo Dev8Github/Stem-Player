@@ -107,7 +107,7 @@ class WaveformWidget(FigureCanvas):
 class AudioMixer(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Mini DAW")
+        self.setWindowTitle("Stem Player ^_^")
         self.resize(820, 700)
         self.setAcceptDrops(True)
 
@@ -386,3 +386,4 @@ if __name__ == "__main__":
     win = AudioMixer()
     win.show()
     sys.exit(app.exec())
+
