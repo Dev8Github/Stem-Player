@@ -4,6 +4,7 @@ Stem Player is a lightweight desktop application for managing, mixing, and re-me
 
 Inspired by tools like Ultimate Vocal Remover, this project does not perform stem separation or audio generation. Instead, it focuses on the post-separation workflow — providing an easy way to load existing stems, control their levels, preview them in real time, generate lyrics, and export a final mix.
 
+<img width="822" height="732" alt="Main_Page" src="https://github.com/user-attachments/assets/2dc277ab-39ab-4ce3-ac36-76708078cac0" />
 
 
 
@@ -36,6 +37,7 @@ Combine stems using current mix settings and export the result as a WAV file.
 📝 Lyrics Generation (English Only, WIP)
 Generate lyrics from the vocals stem using Whisper speech-to-text.
 
+<img width="822" height="732" alt="Lyrics_Page" src="https://github.com/user-attachments/assets/5f45d905-c193-4f85-9355-c8c7882fc778" />
 
 
 
