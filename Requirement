@@ -1,0 +1,6 @@
+numpy
+sounddevice
+soundfile
+PySide6
+matplotlib
+faster-whisper
